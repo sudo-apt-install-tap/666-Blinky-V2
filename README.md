@@ -8,3 +8,16 @@
 <img width="922" height="532" alt="Schematic" src="https://github.com/user-attachments/assets/f91d5817-1ab1-46a4-b9f3-dd79e936c2a0" />
 <img width="922" height="532" alt="Board front" src="https://github.com/user-attachments/assets/d8899785-6255-4389-b193-c7abebffdc18" />
 <img width="922" height="532" alt="Board back" src="https://github.com/user-attachments/assets/35b63627-f461-4cb8-8a69-8fbc48fbda85" />
+
+<br>
+
+## Build Images
+
+![image](https://stasis.hackclub-assets.com/images/1778686468814-ah3dab.png)
+
+
+![image](https://stasis.hackclub-assets.com/images/1778686473971-wbhusu.png)
+
+## Video Is On YouTube!
+
+[Demo #004 V2](https://youtu.be/vR9sy3t7hsI)
